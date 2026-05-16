@@ -23,16 +23,16 @@ Créer un robot marcheur fonctionnel pour mettre en pratique la programmation C+
 
 ### Components
 
-| Device | Usage | Price (Unit. fără TVA) |
+| Device | Usage | Price  |
 |--------|--------|-------|
-| Micro Servomotor SG90 90° (x12) | Mouvement des articulations du robot | 11.56 RON |
+| Micro Servomotor SG90 90° (x12) | Mouvement des articulations du robot | 138.74 RON |
 | Placă de Dezvoltare Arduino Nano (ATmega328p) | Microcontrôleur principal | 24.26 RON |
 | Placă de Expansiune pentru Arduino Nano | Shield pour faciliter les connexions des servos | 6.45 RON |
 | Suport de Baterii 2 x 18650 | Support pour l'alimentation | 3.30 RON |
 | Sursa Coboratoare de Tensiune LM2596 (5V) | Régulateur de tension pour protéger les composants | 10.74 RON |
 | Senzor Ultrasonic HC-SR04+ | Détection d'obstacles (3.3V / 5V) | 12.39 RON |
-| Acumulator Murata US18650VTC5C 2600mAh (x2) | Alimentation de puissance pour le robot | 18.18 RON |
-| Set 10 Fire Colorate Mamă-Mamă 10 cm (x2) | Câblage électronique général | 2.69 RON |
+| Acumulator Murata US18650VTC5C 2600mAh (x2) | Alimentation de puissance pour le robot | 36.36 RON |
+| Set 10 Fire Colorate Mamă-Mamă 10 cm (x2) | Câblage électronique général | 5.39 RON |
 | Intrerupator Negru On/Off | Contrôle de l'alimentation principale | 0.82 RON |
 | Set 6 Șurubelnițe în Miniatură | Outils pour l'assemblage mécanique | 4.12 RON |
 
