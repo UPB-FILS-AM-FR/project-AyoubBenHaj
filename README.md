@@ -1,5 +1,3 @@
-<img width="971" height="544" alt="diagramme" src="https://github.com/user-attachments/assets/2ed4b3c0-dc66-4d9f-b499-2eaf017a9000" />
-
 # Robot quadrupède
 
 | | |
