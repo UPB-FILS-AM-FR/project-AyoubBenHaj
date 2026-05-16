@@ -35,7 +35,7 @@ Créer un robot marcheur fonctionnel pour mettre en pratique la programmation C+
 | Set 10 Fire Colorate Mamă-Mamă 10 cm (x2) | Câblage électronique général | 5.39 RON |
 | Intrerupator Negru On/Off | Contrôle de l'alimentation principale | 0.82 RON |
 | Set 6 Șurubelnițe în Miniatură | Outils pour l'assemblage mécanique | 4.12 RON |
-| total |        | 242.57 RON |
+| total |        | 293.51 RON |
 
 ### Libraries
 
