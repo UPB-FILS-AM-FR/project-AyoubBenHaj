@@ -1,3 +1,4 @@
+<img width="971" height="544" alt="diagramme" src="https://github.com/user-attachments/assets/2ed4b3c0-dc66-4d9f-b499-2eaf017a9000" />
 
 # Robot quadrupède
 
@@ -15,11 +16,12 @@ Créer un robot marcheur fonctionnel pour mettre en pratique la programmation C+
 
 ### Block diagram
 
-![Block Diagram](schematics/block_diagram.png)
+<img width="971" height="544" alt="diagramme" src="https://github.com/user-attachments/assets/cbe61308-26c0-48ba-a808-044b98aaa2d9" />
 
 ### Schematic
 
-![Schematic](schematics/kicad_schematic.png)
+<img width="974" height="544" alt="schema electronique" src="https://github.com/user-attachments/assets/331db2c8-3b45-4a23-b8c2-6e5885cd81b3" />
+
 
 ### Components
 
