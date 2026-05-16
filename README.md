@@ -44,26 +44,7 @@ Créer un robot marcheur fonctionnel pour mettre en pratique la programmation C+
 | [Servo.h](https://www.arduino.cc/reference/en/libraries/servo/) | Official Arduino Servo Library | Utilisée pour le contrôle individuel des 12 servomoteurs SG90. |
 | [FlexiTimer2.h](https://playground.arduino.cc/Main/FlexiTimer2/) | Timer interrupt library | Utilisée pour gérer la synchronisation précise du temps et la coordination de la marche de l'araignée. |
 
-## Log
-
-### Week 6 - 12 May
-* Réception des composants matériels.
-* Début de l'assemblage physique du châssis du robot quadrupède et montage des 12 servomoteurs.
-
-### Week 7 - 19 May
-* Câblage de l'électronique : mise en place de la plaque d'expansion avec l'Arduino Nano, intégration du LM2596 pour la conversion 5V, et connexion du HC-SR04.
-* Écriture des premiers scripts de test pour calibrer les servomoteurs SG90.
-
-### Week 20 - 26 May
-* Implémentation du code C++ principal avec l'intégration de la bibliothèque FlexiTimer2.
-* Ajustements de la cinématique pour stabiliser la marche et tests de la logique d'évitement d'obstacles.
-
-
 ## Reference links
-
-<!-- Fill in with appropriate links and link titles -->
-
-[Tutorial 1](https://www.youtube.com/watch?v=wdgULBpRoXk&t=1s&ab_channel=BenEater)
 
 [Article 1](https://www.explainthatstuff.com/induction-motors.html)
 
